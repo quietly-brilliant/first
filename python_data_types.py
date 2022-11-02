@@ -1,0 +1,7 @@
+print ("Úkol 1")
+print (1256983%28)
+print ("Úkol 2")
+print ((12**52)/15 >= 8)
+print (5*(3**3) != 900/75)
+print ("Úkol 3")
+print ("Úkol 4")
